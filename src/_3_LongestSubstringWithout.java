@@ -2,21 +2,6 @@ import java.util.*;
 
 public class _3_LongestSubstringWithout {
 	public static int lengthOfLongestSubstring0(String s) {
-//		int[] nums = {1, 2, 3};
-//		int target = 3;
-//		List<int[]> result = new ArrayList<>();
-//		int left = 0, sum = 0;
-//		for(int right = 0; right < nums.length; right ++) {
-//			sum += nums[right];
-//			while(sum > target && left <= right) {
-//				sum -= nums[left];
-//				left ++;
-//			}
-//			if(sum == target) {
-//				result.add(Arrays.copyOfRange(nums, left, right + 1));
-//			}
-//		}
-//		return 0;
 		/**
 		 * 把String转化成char[]，或者直接用s.charAt(index)
 		 * subString
