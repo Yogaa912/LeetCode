@@ -585,7 +585,7 @@ Experienced Software Engineer with approximately three years of Java development
 
 ---
 
-## 1. 二分查找
+## 1. 二分查找 ✔
 
 ### [LeetCode 33 - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 √
@@ -594,11 +594,13 @@ Experienced Software Engineer with approximately three years of Java development
 - **关键点**：二分查找如何在有序和部分有序的数组中应用。
 
 ### [LeetCode 69 - Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+√
 - **描述**：给定一个非负整数 `x`，返回 `x` 的平方根的整数部分。
 - **难度**：简单
 - **关键点**：使用二分查找在一个数的范围内找到平方根。
 
 ### [LeetCode 162 - Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+√
 - **描述**：找到一个数组中的峰值元素（大于相邻元素的值）。
 - **难度**：中等
 - **关键点**：利用二分查找的特点快速定位峰值。
@@ -682,3 +684,9 @@ Experienced Software Engineer with approximately three years of Java development
 ---
 
 每个类型的题目都适合不同的解题思路和技巧。你可以根据兴趣和当前的掌握情况，依次进行练习和理解。希望这些题目能帮助你更好地巩固这些算法类型！
+
+###11/14
+- **学习阶段**：理解基本动态规划概念，通过经典的 LeetCode 70 - Climbing Stairs。√
+- **提升阶段**：尝试 LeetCode 322 - Coin Change，通过背包问题感受动态规划在多层循环中的应用。√
+- **挑战阶段**：尝试 LeetCode 472 - Concatenated Words，结合动态规划和回溯的综合题。√
+- **检测阶段**：最后做 LeetCode 198 - House Robber，确保掌握状态转移的动态规划思路。
