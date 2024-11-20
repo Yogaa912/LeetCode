@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class _274 {
+public class _274_ {
 	public static int hIndex(int[] citations) {
         Arrays.sort(citations);
         // 0, 1, 3, 5, 6

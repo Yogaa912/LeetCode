@@ -1,5 +1,7 @@
 import java.util.*;
 
+import node.Node;
+
 public class _133_cloneGraph {
 	// 答题代码框架
 	public Node cloneGraph(Node node) {
